@@ -1,0 +1,6 @@
+{
+  "name": "MedQueue AI - Hospital Patient Queue Management",
+  "description": "A modern, reliable healthcare SaaS dashboard for outpatient queue management featuring real-time queue tracking, patient registration, waiting room TV display, and queue analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
